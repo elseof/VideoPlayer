@@ -26,9 +26,10 @@ admins = {}
 OLD_PMS = {}
 AUDIO_CALL = {}
 VIDEO_CALL = {}
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+API_ID = int(getenv("API_ID", "27003875"))
+API_HASH = getenv("API_HASH", "
+8c8575dfd6a7f5ecaa7804c6214ccac5")
+BOT_TOKEN = getenv("BOT_TOKEN", "7315952766:AAGiWIObXF0CoxI11heeakJbYIycUSzJnu4")
 SESSION_STRING = getenv("SESSION_STRING", "")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "AsmSupport")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "AsmSafone")
